@@ -11,3 +11,6 @@ Berdasarkan Background story yang telah diketahui maka bojective dari analisis i
 2.  **Annual Product Category Quality**
 3.  **Annual Payment Type Usage**
 
+# Table Structure
+![Entity Relationship Diagram](https://drive.google.com/drive/folders/1dM3XXGO58xRZTeXjxVEyPxYXJULWFtdg)
+
