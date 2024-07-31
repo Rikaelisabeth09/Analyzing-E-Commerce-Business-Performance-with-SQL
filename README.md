@@ -12,5 +12,5 @@ Berdasarkan Background story yang telah diketahui maka bojective dari analisis i
 3.  **Annual Payment Type Usage**
 
 # Table Structure
-![Entity Relationship Diagram] https://drive.google.com/file/d/1U6u7FfRWTmPay8CDxCaSA8nm5yZhaIog/view?usp=sharing
+![Entity Relationship Diagram](https://drive.google.com/uc?export=view&id=1U6u7FfRWTmPay8CDxCaSA8nm5yZhaIog)
 
